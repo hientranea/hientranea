@@ -3,7 +3,7 @@
 I'm a seasoned software engineer with over 5 years of experience. I specialize as a full-stack developer and am a mobile geek. My passion for learning new technologies and DIY projects keeps me constantly evolving in this fast-paced industry.
 
 - 🌱 Currently diving deeper into modern web and mobile technologies
-- 💼 Available for freelance and full-time opportunities
+- 💼 Available for freelance opportunities
 - 🎨 Always tinkering with new DIY projects
 - 📫 How to reach me: [Email](mailto:tranphuochien96@gmail.com)
 
